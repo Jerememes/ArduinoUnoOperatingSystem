@@ -1,0 +1,6 @@
+﻿  LinkedTaskList.cpp
+  Iterator.cpp
+C:\Users\14182\Dropbox\My PC (LAPTOP-DAQBFT1P)\Documents\01-JEREMY_ROUILLARD\C++Projects\ArduinoUnoOperatingSystem\Iterator.cpp(14,37): error C3861: 'position': identifier not found
+  Task.cpp
+  Task.hpp
+  Generating Code...
